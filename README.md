@@ -15,7 +15,7 @@ font-family: 'KCC Murukmuruk';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCMurukmuruk/KCCMurukmuruk.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCMurukmuruk/KCCMurukmuruk.css" type="text/css"/>
 ```
 
 &nbsp;
